@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "95376331537",
+    "project_id": "trail-7b4b2",
+    "storage_bucket": "trail-7b4b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95376331537:android:b77fcd8ced9b6afdfd32b0",
+        "android_client_info": {
+          "package_name": "com.example.harjeet_prj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95376331537-noi4n4nmfpfffn2jlsph5gd0n2kum2ae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYO7to2rgFXSA4jTxqbClymyhrBF2T2xw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "95376331537-noi4n4nmfpfffn2jlsph5gd0n2kum2ae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
